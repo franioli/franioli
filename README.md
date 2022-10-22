@@ -1,4 +1,3 @@
-[![GitHub Badge](https://img.shields.io/github/followers/Tars4815?style=social)](https://github.com/Franioli?tab=followers)
 [![Twitter Badge](https://img.shields.io/twitter/follow/francescoioli?style=social)](https://twitter.com/francescoioli)
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/francesco-ioli-640061160)
 
